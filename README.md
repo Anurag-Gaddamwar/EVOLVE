@@ -11,6 +11,9 @@ Make sure Node.js is installed on your machine.
 1. Clone this repository to your local machine.
 2. Navigate to the project root directory in your terminal.
 3. Run npm install to install the necessary Node modules.
+   ```
+   npm install
+   ```
 
 ### Configuration
 - Update the MongoDB URL in Evolve/src/dbConfig/dbConfig.ts with your own database URL.
