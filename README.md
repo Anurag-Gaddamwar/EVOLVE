@@ -57,7 +57,7 @@ Begin modifying app/page.js to customize your page. The changes will automatical
 This project utilizes next/font for optimizing and loading Inter, a custom Google Font.
 
 ## Work Flow
-<img width="860" alt="EVOLVE- WorkFlow" src="https://github.com/Anurag-Gaddamwar/Evolve/tree/main/public/workflow.png">  
+![Workflow](https://github.com/Anurag-Gaddamwar/Evolve/assets/123613177/ea3ba3d1-82fe-46d1-8e3c-d1fe4ffbb96a)
 
 ### Learn More
 
